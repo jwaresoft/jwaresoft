@@ -1,6 +1,6 @@
 # jwaresoft
 
-some shit I wrote
+I wrote this!
 
 <!---
 jwaresoft/jwaresoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
